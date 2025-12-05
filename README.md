@@ -1,166 +1,154 @@
-<!--
-Hi Marshal! 👋
-Ini file README.md yang udah gue optimize.
-Masalah "Kepotong" udah gue fix dengan nyesuain width & size font di Typing SVG.
--->
-
-<!-- BANNER UTAMA -->
-
+<!-- BANNER -->
 <div align="center">
-<img src="https://raw.githubusercontent.com/mrshlaf/mrshlaf/main/banner.png" width="100%" alt="banner" style="border-radius: 12px; filter: brightness(0.9) contrast(1.1); border: 2px solid #00FF41;" />
+  <img src="https://raw.githubusercontent.com/mrshlaf/mrshlaf/main/banner.png" width="100%" alt="banner" style="border-radius: 15px; box-shadow: 0px 5px 15px rgba(0,0,0,0.5);" />
 </div>
 
-<!-- ANIMASI TYPING (FIXED WIDTH) -->
+<br/>
 
-<!-- Gue set width=500 biar teks panjang gak kepotong, dan size=28 biar muat -->
-
+<!-- TYPING ANIMATION -->
 <h1 align="center">
-<a href="https://git.io/typing-svg">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com/%3Ffont%3DVT323%26weight%3D700%26size%3D30%26duration%3D3000%26pause%3D1000%26color%3D00FF41%26background%3D00000000%26center%3Dtrue%26vCenter%3Dtrue%26width%3D500%26lines%3DSYSTEM_ROOT%253A%2BLogin%2BMarshal%2BAufa...%3BINITIALIZING%2BENGINEER%2BPROFILE...%3BLOADING%2BMODULE%253A%2BEmbedded%2BSystems%3BLOADING%2BMODULE%253A%2BWeb%2BDev%2B(React%252FNext)%3BACCESS%2BGRANTED%2BTO%2BMRSHLAF+👋" alt="Typing SVG" />
-</a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=336699&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Marshal+👋;Computer+Engineering+@+UI;Embedded+Systems+Enthusiast;Frontend+%26+Design+Lover" alt="Typing SVG" />
+  </a>
 </h1>
 
-<!-- STATUS BADGES -->
-
 <p align="center">
-<a href="https://www.google.com/search?q=https://github.com/mrshlaf">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/SYSTEM-ONLINE-000000%3Fstyle%3Dfor-the-badge%26logo%3Dlinux%26logoColor%3D00FF41%26borderColor%3D00FF41"/>
-</a>
-<a href="https://www.google.com/search?q=https://github.com/mrshlaf">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/ROLE-ENGINEER-000000%3Fstyle%3Dfor-the-badge%26logo%3Dexpertsexchange%26logoColor%3D00FF41%26borderColor%3D00FF41"/>
-</a>
-<a href="https://www.google.com/search?q=https://github.com/mrshlaf">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LOCATION-JKT_ID-000000%3Fstyle%3Dfor-the-badge%26logo%3Dgoogle-maps%26logoColor%3D00FF41%26borderColor%3D00FF41"/>
-</a>
+  <b>🚀 Gen Z Engineer in Progress</b><br/>
+  Building aesthetic code & breaking hardware since 200X.
 </p>
 
-<!-- ABOUT ME (TERMINAL STYLE) -->
+<!-- MENU LINKS -->
+<p align="center">
+  <a href="#-tech-stack">Skills</a> •
+  <a href="#-connect-with-me">Contact</a> •
+  <a href="#-github-stats">Stats</a>
+</p>
 
-<h3 align="center">📟 /root/user_profile</h3>
+---
 
-<div align="center">
-<img src="https://www.google.com/search?q=https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2px" />
-<pre align="left" style="background-color: #0d1117; border: 1px solid #00FF41; color: #00FF41; padding: 20px; border-radius: 10px;">
-<code><span style="color: #ff0055;">root@mrshlaf</span>:<span style="color: #00aaff;">~</span>$ whoami
-> Marshal Aufa D. | Computer Engineering @ UI
+### 🧠 About Me
 
-<span style="color: #ff0055;">root@mrshlaf</span>:<span style="color: #00aaff;">~</span>$ cat current_status.json
-{
-"focus": ["Embedded Systems", "IoT", "Fullstack Web"],
-"code_fuel": "Kopi Gula Aren & Cigarettes After Sex",
-"hobbies": ["Debugging Hardware", "Overthinking UI"],
-"motto": "Create more than you consume."
-}
-</code>
-</pre>
-<img src="https://www.google.com/search?q=https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2px" />
+<table align="center" border="0">
+  <tr>
+    <td width="60%" valign="top">
+      <ul>
+        <li>🌏 <b>Based in:</b> Jakarta, Indonesia (Anak UI Teknik!)</li>
+        <li>🔭 <b>Currently grinding:</b> Embedded Systems, VHDL & Fullstack Web</li>
+        <li>🎨 <b>Side hustles:</b> Designing, Debugging, & Overthinking layout</li>
+        <li>⚡ <b>Motto:</b> <i>"Create more than you consume."</i></li>
+        <li>☕ <b>Fuel:</b> Kopi Gula Aren & Mie Gacoan</li>
+      </ul>
+    </td>
+    <td width="40%" valign="center">
+      <div align="center">
+        <!-- Visitor Counter -->
+        <img src="https://komarev.com/ghpvc/?username=mrshlaf&label=PROFILE%20VIEWS&color=blue&style=for-the-badge" alt="watchers"/>
+      </div>
+    </td>
+  </tr>
+</table>
 
+---
+
+### 🛠 Tech Stack (Big Icons Mode)
+
+<!-- GUE GANTI PAKE ICON GEDE BIAR LEBIH VISUAL -->
+
+#### 💻 Languages
+<div align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="55" height="55"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="55" height="55"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="55" height="55"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="55" height="55"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="55" height="55"/>&nbsp;
 </div>
 
-<!-- MUSIC PLAYER (STATIC) -->
+#### ⚙️ Hardware & Embedded
+<div align="left">
+  <!-- Arduino -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="55" height="55"/>&nbsp;
+  <!-- Pake logo Embedded/Chip generic karena VHDL jarang ada iconnya -->
+  <img src="https://img.icons8.com/color/96/microchip.png" alt="VHDL/FPGA" width="55" height="55" title="VHDL / FPGA"/>&nbsp;
+  <!-- Raspberry Pi (Optional kalo pake, kalo gak hapus aja) -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="55" height="55"/>
+</div>
 
-<h3 align="center">📀 /media/audio_stream</h3>
+#### 🌐 Frontend & Design
+<div align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="55" height="55"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="55" height="55"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="55" height="55"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="55" height="55"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="55" height="55"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="55" height="55"/>
+</div>
+
+#### ☁️ Backend & Tools
+<div align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="55" height="55"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="55" height="55"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="55" height="55"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="55" height="55"/>
+</div>
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
-<table border="0" width="100%">
-<tr>
-<td align="center" width="50%">
-<img src="https://www.google.com/search?q=https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Cigarettes_After_Sex_-Cigarettes_After_Sex.png/220px-Cigarettes_After_Sex-_Cigarettes_After_Sex.png" width="100" style="border-radius: 10px; border: 2px solid #00FF41; box-shadow: 0 0 15px #00FF41;">
+  <img src="https://github-readme-stats.vercel.app/api?username=mrshlaf&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrshlaf&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&langs_count=6" height="160" alt="languages graph" />
+</div>
 
+<br/>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrshlaf&theme=radical&hide_border=true&background=0d1117" alt="streak stats" />
+</div>
 
+---
 
+### ⚡ Fun Facts & Goals
 
-
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Now_Playing-K.-000000%3Fstyle%3Dflat-square%26logo%3Dspotify%26logoColor%3D1DB954"/>
-
-
-
-
-
-<small><i>Cigarettes After Sex</i></small>
-</td>
-<td align="center" width="50%">
-<img src="https://www.google.com/search?q=https://upload.wikimedia.org/wikipedia/en/thumb/1/17/Oasis_Definitely_Maybe.jpg/220px-Oasis_Definitely_Maybe.jpg" width="100" style="border-radius: 10px; border: 2px solid #00FF41; box-shadow: 0 0 15px #00FF41;">
-
-
-
-
-
-
-
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Queue-Live_Forever-000000%3Fstyle%3Dflat-square%26logo%3Dspotify%26logoColor%3D1DB954"/>
-
-
-
-
-
-<small><i>Oasis</i></small>
-</td>
-</tr>
+<div align="center">
+<table>
+  <tr>
+    <td width="50%">
+      <b>🎯 Goals 2025</b><br/><br/>
+      🚀 Build impactful final project<br/>
+      🤝 Join Open Source<br/>
+      🐋 Learn Docker & DevOps<br/>
+      🏆 Survive Engineering School
+    </td>
+    <td width="50%">
+      <b>👾 Randomness</b><br/><br/>
+      🧃 Minum kopi = Coding fuel<br/>
+      📸 Ex-Goodystuffs Designer?<br/>
+      🌚 Probably awake at 3AM<br/>
+      🎮 Ngoding > Tidur (Sometimes)
+    </td>
+  </tr>
 </table>
 </div>
 
-<!-- PROJECT SPOTLIGHT -->
+---
 
-<h3 align="center">🚧 /projects/highlight</h3>
+### 🔗 Connect with Me
 
-<div align="center">
-<a href="https://www.google.com/search?q=https://github.com/mrshlaf/kantek-ftui">
-<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3Dmrshlaf%26repo%3Dkantek-ftui%26theme%3Ddark%26bg_color%3D000000%26title_color%3D00FF41%26text_color%3DFFFFFF%26icon_color%3D00FF41%26border_radius%3D10%26border_color%3D00FF41" />
-</a>
-</div>
+<p align="center">
+  <a href="mailto:marshalaufaa@gmail.com">
+    <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Gmail"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/mrshlaf">
+    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/mrshlaf">
+    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram"/>
+  </a>
+</p>
 
-<!-- TECH STACK -->
-
-<h3 align="center">🛠 /bin/skills</h3>
-
-<div align="center">
-<!-- Languages -->
-<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/C%2B%2B-00599C%3Fstyle%3Dfor-the-badge%26logo%3Dc%252B%252B%26logoColor%3Dwhite"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
-
-
-
-
-<!-- Hardware -->
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/VHDL-00979D%3Fstyle%3Dfor-the-badge%26logo%3Dintel%26logoColor%3Dwhite"/>
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Espressif-E7352C%3Fstyle%3Dfor-the-badge%26logo%3Despressif%26logoColor%3Dwhite"/>
-
-
-
-
-
-<!-- Web -->
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Next.js-000000%3Fstyle%3Dfor-the-badge%26logo%3Dnext.js%26logoColor%3Dwhite"/>
-<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-</div>
-
-<!-- STATS -->
-
-<h3 align="center">📊 /var/log/stats</h3>
-
-<div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dmrshlaf%26show_icons%3Dtrue%26theme%3Ddark%26hide_border%3Dfalse%26bg_color%3D0D1117%26title_color%3D00FF41%26text_color%3DFFFFFF%26icon_color%3D00FF41%26border_color%3D00FF41" height="150" alt="stats graph" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dmrshlaf%26layout%3Dcompact%26theme%3Ddark%26hide_border%3Dfalse%26bg_color%3D0D1117%26title_color%3D00FF41%26text_color%3DFFFFFF%26border_color%3D00FF41%26langs_count%3D6" height="150" alt="languages graph" />
-</div>
-
-<!-- FOOTER -->
-
-<div align="center">
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D00FF41%26height%3D60%26section%3Dfooter%26background%3D0D1117"/>
-
-
-
-
-
-<a href="mailto:marshalaufaa@gmail.com"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Connect-Gmail-red%3Fstyle%3Dflat%26logo%3Dgmail"/></a>
-<a href="https://linkedin.com/in/mrshlaf"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Connect-LinkedIn-blue%3Fstyle%3Dflat%26logo%3Dlinkedin"/></a>
-<a href="https://instagram.com/mrshlaf"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Connect-Instagram-pink%3Fstyle%3Dflat%26logo%3Dinstagram"/></a>
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+</p>
