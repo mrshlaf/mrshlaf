@@ -1,141 +1,166 @@
+<!--
+Hi Marshal! 👋
+Ini file README.md yang udah gue optimize.
+Masalah "Kepotong" udah gue fix dengan nyesuain width & size font di Typing SVG.
+-->
+
+<!-- BANNER UTAMA -->
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mrshlaf/mrshlaf/main/banner.png" width="100%" alt="banner" style="border-radius: 10px;" />
+<img src="https://raw.githubusercontent.com/mrshlaf/mrshlaf/main/banner.png" width="100%" alt="banner" style="border-radius: 12px; filter: brightness(0.9) contrast(1.1); border: 2px solid #00FF41;" />
 </div>
 
-<br/>
+<!-- ANIMASI TYPING (FIXED WIDTH) -->
+
+<!-- Gue set width=500 biar teks panjang gak kepotong, dan size=28 biar muat -->
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=336699&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Marshal+👋;Computer+Engineering+@+UI;Embedded+Systems+Enthusiast;Frontend+%26+Design+Lover" alt="Typing SVG" />
-  </a>
+<a href="https://git.io/typing-svg">
+<img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com/%3Ffont%3DVT323%26weight%3D700%26size%3D30%26duration%3D3000%26pause%3D1000%26color%3D00FF41%26background%3D00000000%26center%3Dtrue%26vCenter%3Dtrue%26width%3D500%26lines%3DSYSTEM_ROOT%253A%2BLogin%2BMarshal%2BAufa...%3BINITIALIZING%2BENGINEER%2BPROFILE...%3BLOADING%2BMODULE%253A%2BEmbedded%2BSystems%3BLOADING%2BMODULE%253A%2BWeb%2BDev%2B(React%252FNext)%3BACCESS%2BGRANTED%2BTO%2BMRSHLAF+👋" alt="Typing SVG" />
+</a>
 </h1>
 
-<p align="center">
-  <b>🚀 Gen Z Engineer in Progress</b><br/>
-  Building aesthetic code & breaking hardware since 200X.
-</p>
+<!-- STATUS BADGES -->
 
 <p align="center">
-  <a href="#-tech-stack">Skills</a> •
-  <a href="#-connect-with-me">Contact</a> •
-  <a href="#-github-stats">Stats</a>
+<a href="https://www.google.com/search?q=https://github.com/mrshlaf">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/SYSTEM-ONLINE-000000%3Fstyle%3Dfor-the-badge%26logo%3Dlinux%26logoColor%3D00FF41%26borderColor%3D00FF41"/>
+</a>
+<a href="https://www.google.com/search?q=https://github.com/mrshlaf">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/ROLE-ENGINEER-000000%3Fstyle%3Dfor-the-badge%26logo%3Dexpertsexchange%26logoColor%3D00FF41%26borderColor%3D00FF41"/>
+</a>
+<a href="https://www.google.com/search?q=https://github.com/mrshlaf">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LOCATION-JKT_ID-000000%3Fstyle%3Dfor-the-badge%26logo%3Dgoogle-maps%26logoColor%3D00FF41%26borderColor%3D00FF41"/>
+</a>
 </p>
 
----
+<!-- ABOUT ME (TERMINAL STYLE) -->
 
-### 🧠 About Me
-
-<table align="center" border="0">
-  <tr>
-    <td width="60%" valign="top">
-      <ul>
-        <li>🌏 <b>Based in:</b> Jakarta, Indonesia (Anak UI Teknik!)</li>
-        <li>🔭 <b>Currently grinding:</b> Embedded Systems, VHDL & Fullstack Web</li>
-        <li>🎨 <b>Side hustles:</b> Designing, Debugging, & Overthinking layout</li>
-        <li>⚡ <b>Motto:</b> <i>"Create more than you consume."</i></li>
-        <li>☕ <b>Fuel:</b> Kopi Gula Aren & Mie Gacoan</li>
-      </ul>
-    </td>
-    <td width="40%" valign="center">
-      <div align="center">
-        <img src="https://komarev.com/ghpvc/?username=mrshlaf&label=Profile%20Views&color=blue&style=flat-square" alt="watchers"/>
-      </div>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🛠 Tech Stack
-
-Gue bagi jadi kategori biar lebih enak dilihat:
-
-#### 💻 Languages
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
-
-#### ⚙️ Hardware & Embedded
-<p>
-  <img src="https://img.shields.io/badge/VHDL-00979D?style=for-the-badge&logo=intel&logoColor=white"/> <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white"/>
-</p>
-
-#### 🌐 Frontend & Design
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-</p>
-
-#### ☁️ Backend & Tools
-<p>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-</p>
-
----
-
-### 📊 GitHub Stats
+<h3 align="center">📟 /root/user_profile</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrshlaf&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrshlaf&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&langs_count=6" height="150" alt="languages graph"  />
+<img src="https://www.google.com/search?q=https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2px" />
+<pre align="left" style="background-color: #0d1117; border: 1px solid #00FF41; color: #00FF41; padding: 20px; border-radius: 10px;">
+<code><span style="color: #ff0055;">root@mrshlaf</span>:<span style="color: #00aaff;">~</span>$ whoami
+> Marshal Aufa D. | Computer Engineering @ UI
+
+<span style="color: #ff0055;">root@mrshlaf</span>:<span style="color: #00aaff;">~</span>$ cat current_status.json
+{
+"focus": ["Embedded Systems", "IoT", "Fullstack Web"],
+"code_fuel": "Kopi Gula Aren & Cigarettes After Sex",
+"hobbies": ["Debugging Hardware", "Overthinking UI"],
+"motto": "Create more than you consume."
+}
+</code>
+</pre>
+<img src="https://www.google.com/search?q=https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" height="2px" />
+
 </div>
 
-<br/>
+<!-- MUSIC PLAYER (STATIC) -->
+
+<h3 align="center">📀 /media/audio_stream</h3>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrshlaf&theme=radical&hide_border=true&background=0d1117" alt="streak stats" />
-</div>
+<table border="0" width="100%">
+<tr>
+<td align="center" width="50%">
+<img src="https://www.google.com/search?q=https://upload.wikimedia.org/wikipedia/en/thumb/f/f4/Cigarettes_After_Sex_-Cigarettes_After_Sex.png/220px-Cigarettes_After_Sex-_Cigarettes_After_Sex.png" width="100" style="border-radius: 10px; border: 2px solid #00FF41; box-shadow: 0 0 15px #00FF41;">
 
----
 
-### ⚡ Fun Facts & Goals
 
-<div align="center">
-<table>
-  <tr>
-    <td width="50%">
-      <b>🎯 Goals 2025</b><br/><br/>
-      🚀 Build impactful final project<br/>
-      🤝 Join Open Source<br/>
-      🐋 Learn Docker & DevOps<br/>
-      🏆 Survive Engineering School
-    </td>
-    <td width="50%">
-      <b>👾 Randomness</b><br/><br/>
-      🧃 Minum kopi = Coding fuel<br/>
-      📸 Ex-Goodystuffs Designer?<br/>
-      🌚 Probably awake at 3AM<br/>
-      🎮 Ngoding > Tidur (Sometimes)
-    </td>
-  </tr>
+
+
+
+
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Now_Playing-K.-000000%3Fstyle%3Dflat-square%26logo%3Dspotify%26logoColor%3D1DB954"/>
+
+
+
+
+
+<small><i>Cigarettes After Sex</i></small>
+</td>
+<td align="center" width="50%">
+<img src="https://www.google.com/search?q=https://upload.wikimedia.org/wikipedia/en/thumb/1/17/Oasis_Definitely_Maybe.jpg/220px-Oasis_Definitely_Maybe.jpg" width="100" style="border-radius: 10px; border: 2px solid #00FF41; box-shadow: 0 0 15px #00FF41;">
+
+
+
+
+
+
+
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Queue-Live_Forever-000000%3Fstyle%3Dflat-square%26logo%3Dspotify%26logoColor%3D1DB954"/>
+
+
+
+
+
+<small><i>Oasis</i></small>
+</td>
+</tr>
 </table>
 </div>
 
----
+<!-- PROJECT SPOTLIGHT -->
 
-### 🔗 Connect with Me
+<h3 align="center">🚧 /projects/highlight</h3>
 
-<p align="center">
-  <a href="mailto:marshalaufaa@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://linkedin.com/in/mrshlaf">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://instagram.com/mrshlaf">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</p>
+<div align="center">
+<a href="https://www.google.com/search?q=https://github.com/mrshlaf/kantek-ftui">
+<img align="center" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/pin/%3Fusername%3Dmrshlaf%26repo%3Dkantek-ftui%26theme%3Ddark%26bg_color%3D000000%26title_color%3D00FF41%26text_color%3DFFFFFF%26icon_color%3D00FF41%26border_radius%3D10%26border_color%3D00FF41" />
+</a>
+</div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
-</p>
+<!-- TECH STACK -->
+
+<h3 align="center">🛠 /bin/skills</h3>
+
+<div align="center">
+<!-- Languages -->
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/C%2B%2B-00599C%3Fstyle%3Dfor-the-badge%26logo%3Dc%252B%252B%26logoColor%3Dwhite"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Python-3776AB%3Fstyle%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dwhite"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+
+
+
+
+<!-- Hardware -->
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/VHDL-00979D%3Fstyle%3Dfor-the-badge%26logo%3Dintel%26logoColor%3Dwhite"/>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Espressif-E7352C%3Fstyle%3Dfor-the-badge%26logo%3Despressif%26logoColor%3Dwhite"/>
+
+
+
+
+
+<!-- Web -->
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/Next.js-000000%3Fstyle%3Dfor-the-badge%26logo%3Dnext.js%26logoColor%3Dwhite"/>
+<img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+</div>
+
+<!-- STATS -->
+
+<h3 align="center">📊 /var/log/stats</h3>
+
+<div align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dmrshlaf%26show_icons%3Dtrue%26theme%3Ddark%26hide_border%3Dfalse%26bg_color%3D0D1117%26title_color%3D00FF41%26text_color%3DFFFFFF%26icon_color%3D00FF41%26border_color%3D00FF41" height="150" alt="stats graph" />
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dmrshlaf%26layout%3Dcompact%26theme%3Ddark%26hide_border%3Dfalse%26bg_color%3D0D1117%26title_color%3D00FF41%26text_color%3DFFFFFF%26border_color%3D00FF41%26langs_count%3D6" height="150" alt="languages graph" />
+</div>
+
+<!-- FOOTER -->
+
+<div align="center">
+<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D00FF41%26height%3D60%26section%3Dfooter%26background%3D0D1117"/>
+
+
+
+
+
+<a href="mailto:marshalaufaa@gmail.com"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Connect-Gmail-red%3Fstyle%3Dflat%26logo%3Dgmail"/></a>
+<a href="https://linkedin.com/in/mrshlaf"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Connect-LinkedIn-blue%3Fstyle%3Dflat%26logo%3Dlinkedin"/></a>
+<a href="https://instagram.com/mrshlaf"><img src="https://www.google.com/search?q=https://img.shields.io/badge/Connect-Instagram-pink%3Fstyle%3Dflat%26logo%3Dinstagram"/></a>
+</div>
