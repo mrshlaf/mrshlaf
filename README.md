@@ -1,154 +1,125 @@
-<!-- BANNER -->
+<!-- HEADER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Marshal%20Aufa%20Diliyana&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Computer%20Engineering%20%40%20Universitas%20Indonesia&descAlignY=58&descSize=16&animation=fadeIn"/>
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/mrshlaf/mrshlaf/main/banner.png" width="100%" alt="banner" style="border-radius: 15px; box-shadow: 0px 5px 15px rgba(0,0,0,0.5);" />
+
+<!-- TYPING SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=4FC3F7&center=true&vCenter=true&multiline=false&width=600&lines=Embedded+Systems+%26+Digital+Design+%F0%9F%94%8C;Full+Stack+%2B+Hardware+is+not+a+contradiction.;VHDL+%7C+C%2FC%2B%2B+%7C+Python+%7C+JavaScript;Ngoding+%E2%89%A5+Tidur+%E2%80%94+always.)](https://git.io/typing-svg)
+
 </div>
+
+---
+
+## 🧑‍💻 About Me
+
+```yaml
+name: Marshal Aufa Diliyana
+university: Universitas Indonesia — Teknik Komputer (S1)
+nim: 2406346913
+location: Jakarta, Indonesia 🇮🇩
+status: 2nd Year — Semester 4
+
+interests:
+  - Embedded Systems & FPGA/VHDL
+  - Digital Circuit Design
+  - Computer Networks & Architecture
+  - Fullstack Web Development
+  - UI/UX & Design Systems
+
+currently_grinding:
+  - Sistem Embedded & Praktikum
+  - Sistem Operasi
+  - Sistem Basis Data
+  - Desain & Manajemen Jaringan Komputer
+  - Komputasi Numerik
+
+fuel: ["Kopi Gula Aren ☕", "Mie Gacoan 🍜"]
+motto: "Create more than you consume."
+awake_at_3am: true
+```
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css" />
+</div>
+
+### ⚙️ Embedded & Hardware
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/VHDL-FPGA-blueviolet?style=for-the-badge&logo=xilinx&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Digital%20Design-Systems-orange?style=for-the-badge&logo=circuitverse&logoColor=white"/>
+</div>
+
+### 🌐 Frontend & Design
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,figma" />
+</div>
+
+### ☁️ Backend & DevOps
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=firebase,git,linux,vscode" />
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mrshlaf&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4FC3F7&icon_color=4FC3F7&text_color=ffffff&count_private=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrshlaf&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4FC3F7&text_color=ffffff&langs_count=8" height="165"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrshlaf&theme=tokyonight&hide_border=true&background=0d1117&ring=4FC3F7&fire=4FC3F7&currStreakLabel=4FC3F7" />
+</div>
+
+---
+
+## 🏆 Achievement Unlocked
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mrshlaf&theme=algolia&no-frame=true&row=1&column=6&margin-w=8" />
+</div>
+
+---
+
+## 🎯 2025–2026 Roadmap
+
+```
+[█████████░░] Embedded Systems Deep Dive        ~80%
+[███████░░░░] OS & Database Fundamentals         ~65%
+[██████░░░░░] Computer Network Design            ~60%
+[████░░░░░░░] Docker & DevOps                    ~35%
+[███░░░░░░░░] Open Source Contribution           ~25%
+[█░░░░░░░░░░] Final Year Project (Capstone)      ~10%
+```
+
+---
+
+## 🌐 Connect
+
+<div align="center">
+
+[![Gmail](https://img.shields.io/badge/Gmail-marshalaufaa%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marshalaufaa@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mrshlaf-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mrshlaf)
+[![Instagram](https://img.shields.io/badge/Instagram-@mrshlaf-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mrshlaf)
 
 <br/>
 
-<!-- TYPING ANIMATION -->
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=336699&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Marshal+👋;Computer+Engineering+@+UI;Embedded+Systems+Enthusiast;Frontend+%26+Design+Lover" alt="Typing SVG" />
-  </a>
-</h1>
+<img src="https://komarev.com/ghpvc/?username=mrshlaf&label=PROFILE+VIEWS&color=4FC3F7&style=for-the-badge" alt="profile views"/>
 
-<p align="center">
-  <b>🚀 Gen Z Engineer in Progress</b><br/>
-  Building aesthetic code & breaking hardware since 200X.
-</p>
-
-<!-- MENU LINKS -->
-<p align="center">
-  <a href="#-tech-stack">Skills</a> •
-  <a href="#-connect-with-me">Contact</a> •
-  <a href="#-github-stats">Stats</a>
-</p>
-
----
-
-### 🧠 About Me
-
-<table align="center" border="0">
-  <tr>
-    <td width="60%" valign="top">
-      <ul>
-        <li>🌏 <b>Based in:</b> Jakarta, Indonesia (Anak UI Teknik!)</li>
-        <li>🔭 <b>Currently grinding:</b> Embedded Systems, VHDL & Fullstack Web</li>
-        <li>🎨 <b>Side hustles:</b> Designing, Debugging, & Overthinking layout</li>
-        <li>⚡ <b>Motto:</b> <i>"Create more than you consume."</i></li>
-        <li>☕ <b>Fuel:</b> Kopi Gula Aren & Mie Gacoan</li>
-      </ul>
-    </td>
-    <td width="40%" valign="center">
-      <div align="center">
-        <!-- Visitor Counter -->
-        <img src="https://komarev.com/ghpvc/?username=mrshlaf&label=PROFILE%20VIEWS&color=blue&style=for-the-badge" alt="watchers"/>
-      </div>
-    </td>
-  </tr>
-</table>
-
----
-
-### 🛠 Tech Stack (Big Icons Mode)
-
-<!-- GUE GANTI PAKE ICON GEDE BIAR LEBIH VISUAL -->
-
-#### 💻 Languages
-<div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="55" height="55"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="55" height="55"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="55" height="55"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="55" height="55"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="55" height="55"/>&nbsp;
-</div>
-
-#### ⚙️ Hardware & Embedded
-<div align="left">
-  <!-- Arduino -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="55" height="55"/>&nbsp;
-  <!-- Pake logo Embedded/Chip generic karena VHDL jarang ada iconnya -->
-  <img src="https://img.icons8.com/color/96/microchip.png" alt="VHDL/FPGA" width="55" height="55" title="VHDL / FPGA"/>&nbsp;
-  <!-- Raspberry Pi (Optional kalo pake, kalo gak hapus aja) -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="55" height="55"/>
-</div>
-
-#### 🌐 Frontend & Design
-<div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="55" height="55"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="55" height="55"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="55" height="55"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="55" height="55"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="55" height="55"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="55" height="55"/>
-</div>
-
-#### ☁️ Backend & Tools
-<div align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="55" height="55"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="55" height="55"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="55" height="55"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="55" height="55"/>
 </div>
 
 ---
-
-### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrshlaf&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrshlaf&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&langs_count=6" height="160" alt="languages graph" />
+  <i>"First, solve the problem. Then, write the code." — John Johnson</i>
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrshlaf&theme=radical&hide_border=true&background=0d1117" alt="streak stats" />
-</div>
-
----
-
-### ⚡ Fun Facts & Goals
-
-<div align="center">
-<table>
-  <tr>
-    <td width="50%">
-      <b>🎯 Goals 2025</b><br/><br/>
-      🚀 Build impactful final project<br/>
-      🤝 Join Open Source<br/>
-      🐋 Learn Docker & DevOps<br/>
-      🏆 Survive Engineering School
-    </td>
-    <td width="50%">
-      <b>👾 Randomness</b><br/><br/>
-      🧃 Minum kopi = Coding fuel<br/>
-      📸 Ex-Goodystuffs Designer?<br/>
-      🌚 Probably awake at 3AM<br/>
-      🎮 Ngoding > Tidur (Sometimes)
-    </td>
-  </tr>
-</table>
-</div>
-
----
-
-### 🔗 Connect with Me
-
-<p align="center">
-  <a href="mailto:marshalaufaa@gmail.com">
-    <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Gmail"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://linkedin.com/in/mrshlaf">
-    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://instagram.com/mrshlaf">
-    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram"/>
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
-</p>
+<!-- FOOTER WAVE -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
