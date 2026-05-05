@@ -1,132 +1,143 @@
+<!-- BANNER -->
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Marshal%20Aufa%20Diliyana&fontSize=40&fontColor=ffffff&fontAlignY=40&desc=Computer%20Engineering%20%40%20Universitas%20Indonesia&descAlignY=60&descSize=15" width="100%"/>
-
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=800&color=4FC3F7&center=true&vCenter=true&width=550&lines=Embedded+Systems+%26+Digital+Design;Full+Stack+%2B+Hardware%3F+Why+not.;VHDL+%7C+C%2FC%2B%2B+%7C+Python+%7C+JavaScript;Ngoding+lebih+dari+tidur.)](https://git.io/typing-svg)
-
-</div>
-
----
-
-## 🧑‍💻 About Me
-
-```yaml
-name: Marshal Aufa Diliyana
-university: Universitas Indonesia — Teknik Komputer (S1)
-nim: 2406346913
-location: Jakarta, Indonesia
-status: 2nd Year — Semester 4
-
-interests:
-  - Embedded Systems & FPGA/VHDL
-  - Digital Circuit Design
-  - Computer Networks & Architecture
-  - Fullstack Web Development
-  - UI/UX & Design Systems
-
-currently_grinding:
-  - Sistem Embedded & Praktikum
-  - Sistem Operasi & Basis Data
-  - Desain & Manajemen Jaringan Komputer
-  - Komputasi Numerik & Matematika Lanjut
-
-fuel: ["Kopi Gula Aren", "Mie Gacoan"]
-motto: "Create more than you consume."
-awake_at_3am: true
-```
-
----
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css" />
+  <img src="https://raw.githubusercontent.com/mrshlaf/mrshlaf/main/banner.png" width="100%" alt="banner" style="border-radius: 15px; box-shadow: 0px 5px 15px rgba(0,0,0,0.5);" />
 </div>
 
 <br/>
 
-### ⚙️ Embedded & Hardware
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/VHDL%2FFPGA-Design-6A0DAD?style=for-the-badge&logo=xilinx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Digital%20Systems-Circuit%20Design-E67E22?style=for-the-badge&logoColor=white"/>
+<!-- TYPING ANIMATION -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=700&size=30&duration=3000&pause=1000&color=336699&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Marshal+👋;Computer+Engineering+@+UI;Embedded+Systems+Enthusiast;Frontend+%26+Design+Lover" alt="Typing SVG" />
+  </a>
 </div>
 
-<br/>
+<p align="center">
+  <b>🚀 Gen Z Engineer in Progress</b><br/>
+  Building aesthetic code & breaking hardware since 200X.
+</p>
 
-### 🌐 Frontend & Design
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,figma" />
+<!-- MENU LINKS -->
+<p align="center">
+  <a href="#-tech-stack"><b>Skills</b></a> •
+  <a href="#-connect-with-me"><b>Contact</b></a> •
+  <a href="#-github-stats"><b>Stats</b></a>
+</p>
+
+---
+
+### 🧠 About Me
+
+<table align="center">
+  <tr>
+    <td width="60%" valign="top">
+      <ul>
+        <li>🌏 <b>Based in:</b> Jakarta, Indonesia (Anak UI Teknik!)</li>
+        <li>🔭 <b>Currently grinding:</b> Embedded Systems, VHDL & Fullstack Web</li>
+        <li>🎨 <b>Side hustles:</b> Designing, Debugging, & Overthinking layout</li>
+        <li>⚡ <b>Motto:</b> <i>"Create more than you consume."</i></li>
+        <li>☕ <b>Fuel:</b> Kopi Gula Aren & Mie Gacoan</li>
+      </ul>
+    </td>
+    <td width="40%" align="center" valign="center">
+        <!-- Visitor Counter -->
+        <img src="https://komarev.com/ghpvc/?username=mrshlaf&label=PROFILE%20VIEWS&color=blue&style=for-the-badge" alt="watchers"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠 Tech Stack
+
+#### 💻 Languages
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
+</p>
+
+#### ⚙️ Hardware & Embedded
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/arduino/arduino-original.svg" alt="arduino" width="45" height="45"/>&nbsp;
+  <img src="https://img.icons8.com/color/96/microchip.png" alt="VHDL/FPGA" width="45" height="45" title="VHDL / FPGA"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="45" height="45"/>
+</p>
+
+#### 🌐 Frontend & Design
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="45" height="45"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="45" height="45"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwind" width="45" height="45"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>
+</p>
+
+#### ☁️ Backend & Tools
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="45" height="45"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="45" height="45"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mrshlaf&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" height="165" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrshlaf&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&langs_count=6" height="165" alt="languages graph" />
 </div>
 
-<br/>
-
-### ☁️ Tools & Backend
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=firebase,git,linux,vscode" />
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrshlaf&theme=radical&hide_border=true&background=0d1117" alt="streak stats" />
 </div>
 
 ---
 
-## 📊 GitHub Stats
+### ⚡ Fun Facts & Goals
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrshlaf&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4FC3F7&icon_color=4FC3F7&text_color=ffffff&count_private=true" height="165"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrshlaf&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=4FC3F7&text_color=ffffff&langs_count=8" height="165"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=mrshlaf&theme=tokyonight&hide_border=true&background=0d1117&ring=4FC3F7&fire=4FC3F7&currStreakLabel=4FC3F7" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mrshlaf&theme=algolia&no-frame=true&row=1&column=6&margin-w=8" />
-</div>
-
----
-
-## 🎯 2025–2026 Roadmap
-
-```
-[█████████░░] Embedded Systems Deep Dive        ~80%
-[███████░░░░] OS & Database Fundamentals         ~65%
-[██████░░░░░] Computer Network Design            ~60%
-[████░░░░░░░] Docker & DevOps                    ~35%
-[███░░░░░░░░] Open Source Contribution           ~25%
-[█░░░░░░░░░░] Final Year Project (Capstone)      ~10%
-```
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <b>🎯 Goals 2025</b><br/>
+      <ul>
+        <li>Build impactful final project</li>
+        <li>Join Open Source</li>
+        <li>Learn Docker & DevOps</li>
+        <li>Survive Engineering School</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <b>👾 Randomness</b><br/>
+      <ul>
+        <li>Minum kopi = Coding fuel</li>
+        <li>Ex-Goodystuffs Designer?</li>
+        <li>Probably awake at 3AM</li>
+        <li>Ngoding > Tidur (Sometimes)</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
-## 🌐 Connect
+### 🔗 Connect with Me
 
-<div align="center">
+<p align="center">
+  <a href="mailto:marshalaufaa@gmail.com">
+    <img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Gmail" width="40"/>
+  </a>&nbsp;
+  <a href="https://linkedin.com/in/mrshlaf">
+    <img src="https://img.icons8.com/fluency/48/000000/linkedin.png" alt="LinkedIn" width="40"/>
+  </a>&nbsp;
+  <a href="https://instagram.com/mrshlaf">
+    <img src="https://img.icons8.com/fluency/48/000000/instagram-new.png" alt="Instagram" width="40"/>
+  </a>
+</p>
 
-[![Gmail](https://img.shields.io/badge/Gmail-marshalaufaa@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:marshalaufaa@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-mrshlaf-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mrshlaf)
-[![Instagram](https://img.shields.io/badge/Instagram-@mrshlaf-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/mrshlaf)
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=mrshlaf&label=PROFILE+VIEWS&color=4FC3F7&style=for-the-badge"/>
-
-</div>
-
----
-
-<div align="center">
-  <i>"First, solve the problem. Then, write the code."</i>
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+</p>
