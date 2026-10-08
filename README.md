@@ -39,7 +39,7 @@ languages:   Bahasa Indonesia (native) · English (professional)
 
 > "Fascinated by the complete engineering pipeline — from how electric charges travel through silicon, to how data and algorithms are architected to solve massive real-world problems. Minimalist in approach, maximalist in impact."
 
-- Currently building → **Lapak UI** (peer-to-peer marketplace) · **Folio** (tiered NoSQL bookstore) · **Smart Plant System** (IoT irrigation)
+- Currently building → **Rimula Agents** (skincare formulation AI co-pilot) · **Lapak UI** (peer-to-peer marketplace) · **Folio** (tiered NoSQL bookstore)
 - Going deeper on → distributed systems, NoSQL performance engineering, FPGA microarchitecture, ML feature engineering
 - Legislative Member @ **MPM FTUI** — parliamentary oversight and budget auditing for 2,000+ engineering students
 - Assistant Lecturer @ **Faculty of Engineering UI** — guiding 90+ freshmen in Digital Systems and Computational Thinking
@@ -147,6 +147,18 @@ languages:   Bahasa Indonesia (native) · English (professional)
 ## Featured Projects
 
 <table>
+  <tr>
+    <td colspan="2" valign="top">
+
+### 🏆 [Rimula Agents: Skincare Formulation AI Co-Pilot](https://github.com/mrshlaf/rimula-agents)
+`Sep 2026` · **Top 10 Finalist @ UI Hackathon Incubate 2026 (Paragon Challenge)**
+
+AI co-pilot for cosmetic and skincare formulation R&D built at UI Hackathon Incubate 2026. Employs Gaussian Process Bayesian Optimization to iteratively discover formulations with 62% to 78% fewer experimental batches, deterministic rule-based guardrails for regulatory and halal-sourcing compliance, scientific literature evidence via Europe PMC and Open Beauty Facts, and local Qwen3-30B LLM orchestration.
+
+`Python` `Bayesian Optimization` `Gaussian Processes` `FastAPI` `Qwen3-30B` `Next.js` `BGE-M3`
+
+</td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
 
